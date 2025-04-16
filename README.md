@@ -76,7 +76,7 @@
 
 **14. Customer Engagement Dashboard**
 
-![image](https://github.com/user-attachments/assets/a0880bcc-59c4-45d2-bbf2-4e519ef51e1d)
+![image](https://github.com/user-attachments/assets/1e4855bc-fc1a-4d2c-810f-8386e5dc7b8b)
 
 **15. Competitor Benchmarking Simulations**
 
