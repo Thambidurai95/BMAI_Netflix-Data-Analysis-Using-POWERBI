@@ -6,7 +6,7 @@
 
 # Data Cleaning & Transformation (Excel + Power BI)
 
-**Data Consistency Check:**
+**1. Data Consistency Check:**
 
 * Consolidated the raw data of Netflix dataset and customer ratings.
 * Verified the data types of each column and updated it in the standard format.
