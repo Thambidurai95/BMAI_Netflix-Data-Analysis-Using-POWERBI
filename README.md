@@ -30,6 +30,51 @@
 
 ![image](https://github.com/user-attachments/assets/dee7eea4-9918-4e48-867f-9ca5219d8da5)
 
+**5. Genre Popularity by Country**
 
+![image](https://github.com/user-attachments/assets/2a566aa9-02f0-4a5b-940d-821776163fa5)
 
+**6. Customer Ratings Distribution**
 
+![image](https://github.com/user-attachments/assets/a5b3d80f-be0c-4001-9ac6-c8e3193aadf9)
+
+**7. Trending Content Analysis**
+
+![image](https://github.com/user-attachments/assets/e42913ab-cb1e-4bd3-95fe-ce914473a812)
+
+# Market Insights & Revenue Analysis
+
+**8. Subscription Market Share Analysis**
+
+![image](https://github.com/user-attachments/assets/fa243521-c5b4-4b1b-8c36-416c68cedf38)
+
+**9. Customer Retention Insights**
+
+![image](https://github.com/user-attachments/assets/0e6abc5f-18e1-42d1-927a-44ab55fe7761)
+
+**10. High-Rated vs. Low-Rated Content**
+
+![image](https://github.com/user-attachments/assets/fb1c1c41-5ee8-4b75-b321-66d4713cfc31)
+
+# Business Decision-Making Scenarios
+
+**11. Director & Cast Influence on Ratings**
+
+![image](https://github.com/user-attachments/assets/9a0174a3-0097-4ba7-afb4-b368a7c1800e)
+
+**12. Content Localization Strategy**
+
+![image](https://github.com/user-attachments/assets/0b7c96ff-3b2f-4a81-8122-9fb85f9b5efc)
+
+**13. Best Time to Release New Content**
+
+![image](https://github.com/user-attachments/assets/ff5f4cf4-fd5e-4f62-b6c5-7c431735ace0)
+
+**14. Customer Engagement Dashboard**
+
+![image](https://github.com/user-attachments/assets/1ab21db8-a0c4-4f9a-8e3f-53fa4ad38b73)
+
+**15. Competitor Benchmarking Simulations**
+
+* Business Insights and strategic recommendations are mentioned in the PPT.
+* PPT file has been attached.
