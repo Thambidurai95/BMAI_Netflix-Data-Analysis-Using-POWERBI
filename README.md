@@ -2,6 +2,10 @@
 
 ![Netflix logo](https://github.com/user-attachments/assets/37a1835c-eaae-4add-9902-74473f77ce5f)
 
+# Power BI Dashboard Home Page
+
+![image](https://github.com/user-attachments/assets/8819232b-8bb1-4468-af52-65f39984fc3f)
+
 # Tasks:
 
 # Data Cleaning & Transformation (Excel + Power BI)
@@ -72,7 +76,7 @@
 
 **14. Customer Engagement Dashboard**
 
-![image](https://github.com/user-attachments/assets/1ab21db8-a0c4-4f9a-8e3f-53fa4ad38b73)
+![image](https://github.com/user-attachments/assets/a0880bcc-59c4-45d2-bbf2-4e519ef51e1d)
 
 **15. Competitor Benchmarking Simulations**
 
