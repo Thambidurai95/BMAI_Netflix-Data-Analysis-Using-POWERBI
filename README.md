@@ -26,7 +26,7 @@
 
 **3. Subscription Type vs. Watch Time**
 
-![image](https://github.com/user-attachments/assets/f5c2d25d-cae3-4483-9b89-a85c6f13d236)
+![image](https://github.com/user-attachments/assets/1bebc7ee-8c2e-44b2-9f6e-25a90874171c)
 
 # Descriptive & Comparative Analysis
 
@@ -76,7 +76,7 @@
 
 **14. Customer Engagement Dashboard**
 
-![image](https://github.com/user-attachments/assets/1e4855bc-fc1a-4d2c-810f-8386e5dc7b8b)
+![image](https://github.com/user-attachments/assets/cffb667b-3b0e-475a-a610-cf67f7756e30)
 
 **15. Competitor Benchmarking Simulations**
 
